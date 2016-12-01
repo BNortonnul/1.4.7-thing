@@ -38,4 +38,4 @@ The day began with success on merging images. We then began to tackle the issue 
 
 
 #Day 4- December 1:
-The day began by completing script which would allow for resizing the images. We then implemented the merging images script, which was successful. 
+The day began by completing script which would allow for resizing the images. We then implemented the merging images script, which was successful. We then began to tweak the code to allow more functionality. 
