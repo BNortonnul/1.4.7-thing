@@ -1,3 +1,10 @@
+import PIL
+import matplotlib.pyplot as plt # single use of plt is commented out
+import os.path  
+import PIL.ImageDraw
+import numpy as np
+import operator
+
 def overlay_image(image_to_show, image_to_add, directory=None):
     """Displays the PLT.image specified.
     """
