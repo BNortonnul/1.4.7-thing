@@ -42,4 +42,4 @@ The day began by completing script which would allow for resizing the images. We
 
 
 #Day 5- December 5:
-The day began where we left off tweaking the code. We began making changes to our merging colors script to add better functionality. 
+The day began where we left off tweaking the code. We then worked on our merging colors script to add better functionality. 
