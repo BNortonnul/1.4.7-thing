@@ -14,6 +14,8 @@ Since this script will work as part of a cohesive software package and you have 
 #Rough Outline:
 To reach our goal, we will need to incorporate ideas from each of the other clients and combine them to reach our product. This will involve elements such as pixel detection, as well as pixel rendering.
 
+#Written Proposal:
+
 
 #Task List: 
 Import Images
@@ -23,7 +25,6 @@ Merging Images
 Resize Images
 
 Merge colors of pixels
-
 
 #Day 1- November 28:
 We picked our client and began working on an outline. We also started testing bits of code with small strides.
