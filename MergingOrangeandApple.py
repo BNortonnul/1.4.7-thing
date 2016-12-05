@@ -6,11 +6,6 @@ os.chdir('/Users/kyleolson/Desktop/TestBench')
 
 #Start of Code
 
-
-
-
-
-
 # suppose img1 and img2 are your two images
 img1 = Image.open('Apple.png')
 img2 = Image.open('Orange.png')
