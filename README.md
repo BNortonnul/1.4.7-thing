@@ -15,6 +15,7 @@ Since this script will work as part of a cohesive software package and you have 
 To reach our goal, we will need to incorporate ideas from each of the other clients and combine them to reach our product. This will involve elements such as pixel detection, as well as pixel rendering.
 
 #Written Proposal:
+We have been assigned to create software that will manipulate multiple images into a single image in a unique way. Our proposal is a revolutionary tool that will go above and beyond high end editing software, such as Photoshop.  The software combines images by overlapping them and merging the colors. This will be done by a series of intricate code and scripts. We will begin by importing user-designated images. The photos will then be resized. This is important, as it allows both images to evenly altered. Next, the photos will be overlayed. This is done by pasting both images onto a canvas. Then the color’s of the pixels will be altered by changing the pixels that are overlapping. This software is beneficial to everyone alike. 
 
 
 #Task List: 
