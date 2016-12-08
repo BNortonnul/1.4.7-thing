@@ -53,3 +53,6 @@ We were able to complete our code and ensure it's functionality.
 
 #Day 7- December 7:
 We began the day by exploring adding support for .JPG's as well as .PNG's, which was successful.
+
+#Day 8 - December 8:
+Wrapped things up.
